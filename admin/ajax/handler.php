@@ -197,7 +197,6 @@ function action_report_data(mysqli $con): void
             }
         }
     }
-    echo '<pre>'; print_r($rows); echo '</pre>'; exit;
     ?>
 <div class="hp-card">
     <div class="hp-card-header">
